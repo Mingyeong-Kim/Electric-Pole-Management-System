@@ -2,8 +2,8 @@
 
 - **프로젝트 기간: 2021.08.12 - 2021.08.29(3주, 팀)**
 - **프로젝트 개요: IoT 기술을 적용한 전신주 안전 관리 시스템 개발**
-- **사용기술: 라즈베리파이
-- Python, IBM Cloud, Javascript, Node-RED
+- **H/W 개발 사용기술: Python, Raspberry Pi(라즈베리파이), Sensors(기울기, 충격감지, 온/습도, 먼지 센서), IBM Cloud**
+- **S/W 개발 사용기술: IBM Cloud, Javascript, Node-RED**
 - **역할: 상태판단 및 모니터링 시스템 알고리즘 구현(S/W)**
 
 
@@ -13,10 +13,10 @@
 
 
 ## 프로젝트 과정 및 내용
-
-- IoT 기반 지주(POLE) 기울기, 충격 측정 장치 개발
-- IoT 기반 생활 환경 센서(온/습도, 미세먼지 등) 측정 장치 개발
-- 지주 상태 및 환경 측정 정보 실시간 모니터링 시스템 개발
+- IoT 기반 지주(POLE) 기울기, 충격 측정 장치 개발(H/W)
+- IoT 기반 생활 환경 센서(온/습도, 미세먼지 등) 측정 장치 개발(H/W)
+- 지주 상태 및 환경 측정 정보 실시간 모니터링 시스템 개발(S/W)
+- 
 
 - **프로젝트 개요(Project Outline)**
 <img width="500"  height="300" src="https://user-images.githubusercontent.com/65681568/137986387-da792c15-503e-409f-a9c1-66da58155ea6.PNG">
