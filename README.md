@@ -37,5 +37,8 @@
 - **모니터링 S/W 개발 결과**
 <img width="750"  height="350" src="https://user-images.githubusercontent.com/65681568/138473072-4056c64a-3831-4060-a38b-04bc9c7e8f7a.png">
 
+- **프로그램 시연 영상**
+https://youtu.be/yatn3Jptla8
+
 
 
